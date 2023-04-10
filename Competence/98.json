@@ -1,0 +1,55 @@
+[
+    {
+        "nom": "uuuuu",
+        "DateAndTime": "10-26-2022 11:39:23 ",
+        "auteur": "Pharex\n",
+        "prenom": "hhhhh",
+        "id": "98",
+        "suivi": [
+            {
+                "titsuivi": "adadsads",
+                "DateAndTime": "10-26-2022 11:58:24 ",
+                "auteur": "Pharex\n",
+                "suivi": "asdasasasaasdasasasd"
+            },
+            {
+                "titsuivi": "aide",
+                "DateAndTime": "10-26-2022 11:58:49 ",
+                "auteur": "Pharex\n",
+                "suivi": "autre"
+            },
+            {
+                "titsuivi": "aasaaaaaa",
+                "DateAndTime": "10-26-2022 12:15:01 ",
+                "auteur": "Pharex\n",
+                "suivi": "aaaaaaaa"
+            },
+            {
+                "titsuivi": null,
+                "DateAndTime": "10-27-2022 01:19:57 ",
+                "auteur": "Pharex\n",
+                "suivi": null
+            },
+            {
+                "titsuivi": null,
+                "DateAndTime": "10-27-2022 01:20:00 ",
+                "auteur": "Pharex\n",
+                "suivi": null
+            },
+            {
+                "titsuivi": "kkjhkjhk",
+                "DateAndTime": "10-27-2022 01:20:22 ",
+                "auteur": "Pharex\n",
+                "suivi": "khjhkbkjhbjhbjh"
+            }
+        ]
+    },
+    {
+        "nom": "uuuuu",
+        "DateAndTime": "10-26-2022 11:39:46 ",
+        "auteur": "Pharex\n",
+        "prenom": "hhhhh",
+        "id": "98",
+        "suivi": []
+    }
+]

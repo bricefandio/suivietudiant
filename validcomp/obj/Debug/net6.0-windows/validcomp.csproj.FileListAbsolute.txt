@@ -1,0 +1,45 @@
+C:\Users\Pharex\source\repos\validcomp\validcomp\bin\Debug\net6.0-windows\validcomp.exe
+C:\Users\Pharex\source\repos\validcomp\validcomp\bin\Debug\net6.0-windows\validcomp.deps.json
+C:\Users\Pharex\source\repos\validcomp\validcomp\bin\Debug\net6.0-windows\validcomp.runtimeconfig.json
+C:\Users\Pharex\source\repos\validcomp\validcomp\bin\Debug\net6.0-windows\validcomp.dll
+C:\Users\Pharex\source\repos\validcomp\validcomp\bin\Debug\net6.0-windows\validcomp.pdb
+C:\Users\Pharex\source\repos\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.csproj.AssemblyReference.cache
+C:\Users\Pharex\source\repos\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.Properties.Resources.resources
+C:\Users\Pharex\source\repos\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.csproj.GenerateResource.cache
+C:\Users\Pharex\source\repos\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pharex\source\repos\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.AssemblyInfoInputs.cache
+C:\Users\Pharex\source\repos\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.AssemblyInfo.cs
+C:\Users\Pharex\source\repos\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.csproj.CoreCompileInputs.cache
+C:\Users\Pharex\source\repos\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.dll
+C:\Users\Pharex\source\repos\validcomp\validcomp\obj\Debug\net6.0-windows\refint\validcomp.dll
+C:\Users\Pharex\source\repos\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.pdb
+C:\Users\Pharex\source\repos\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.genruntimeconfig.cache
+C:\Users\Pharex\source\repos\validcomp\validcomp\obj\Debug\net6.0-windows\ref\validcomp.dll
+C:\Users\Pharex\source\repos\validcomp\validcomp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Pharex\source\repos\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.csproj.CopyComplete
+C:\Users\Pharex\source\repos\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.acceuil.resources
+C:\Users\Pharex\source\repos\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.Competence.resources
+C:\Users\Pharex\source\repos\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.nouvel_etud.resources
+E:\MS2D1 Limoges\projet\validcomp\validcomp\bin\Debug\net6.0-windows\validcomp.exe
+E:\MS2D1 Limoges\projet\validcomp\validcomp\bin\Debug\net6.0-windows\validcomp.deps.json
+E:\MS2D1 Limoges\projet\validcomp\validcomp\bin\Debug\net6.0-windows\validcomp.runtimeconfig.json
+E:\MS2D1 Limoges\projet\validcomp\validcomp\bin\Debug\net6.0-windows\validcomp.dll
+E:\MS2D1 Limoges\projet\validcomp\validcomp\bin\Debug\net6.0-windows\validcomp.pdb
+E:\MS2D1 Limoges\projet\validcomp\validcomp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\MS2D1 Limoges\projet\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.csproj.AssemblyReference.cache
+E:\MS2D1 Limoges\projet\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.acceuil.resources
+E:\MS2D1 Limoges\projet\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.Competence.resources
+E:\MS2D1 Limoges\projet\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.etudcomp.resources
+E:\MS2D1 Limoges\projet\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.nouvel_etud.resources
+E:\MS2D1 Limoges\projet\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.Properties.Resources.resources
+E:\MS2D1 Limoges\projet\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.csproj.GenerateResource.cache
+E:\MS2D1 Limoges\projet\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.GeneratedMSBuildEditorConfig.editorconfig
+E:\MS2D1 Limoges\projet\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.AssemblyInfoInputs.cache
+E:\MS2D1 Limoges\projet\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.AssemblyInfo.cs
+E:\MS2D1 Limoges\projet\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.csproj.CoreCompileInputs.cache
+E:\MS2D1 Limoges\projet\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.csproj.CopyComplete
+E:\MS2D1 Limoges\projet\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.dll
+E:\MS2D1 Limoges\projet\validcomp\validcomp\obj\Debug\net6.0-windows\refint\validcomp.dll
+E:\MS2D1 Limoges\projet\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.pdb
+E:\MS2D1 Limoges\projet\validcomp\validcomp\obj\Debug\net6.0-windows\validcomp.genruntimeconfig.cache
+E:\MS2D1 Limoges\projet\validcomp\validcomp\obj\Debug\net6.0-windows\ref\validcomp.dll

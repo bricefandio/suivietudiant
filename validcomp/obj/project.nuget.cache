@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zo54sveP35ObgTkxCLxwXJ0vlUYdSmBKdVNrGH+ECqgDdaGNi2Mh3sF8DDQVR09ChYUddNVp+n2DudAY93mG8A==",
+  "success": true,
+  "projectFilePath": "E:\\MS2D1 Limoges\\projet\\validcomp\\validcomp\\validcomp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
